@@ -1,2 +1,15 @@
 Copyright (c) 2025 Tabish Sayyed. All rights reserved.
 This code is proprietary and may not be used, copied, modified, or distributed without explicit written permission from the author.
+ALL RIGHTS RESERVED — COPYRIGHT 2025
+
+Copyright (c) 2025 Tabish Sayyed. All rights reserved.
+
+This work is proprietary. No part of this repository, including but not limited to source code,
+documentation, models, datasets, scripts, examples, and media, may be reproduced, distributed,
+transmitted, displayed, sold, licensed, or otherwise exploited for any purpose without the express
+prior written permission of the copyright holder, Tabish Sayyed.
+
+Unauthorized use may result in civil and/or criminal liability to the fullest extent permitted by law.
+
+Contact: sayyedtabish72@proton.me
+
