@@ -1,3 +1,5 @@
+from src.utils.io import load_model
+
 import streamlit as st
 
 def main():
