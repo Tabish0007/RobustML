@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image, ImageDraw
 import torch
 import torchvision.transforms as transforms
-from src.models.mnist_model import SimpleCNN
+from models.mnist_model import SimpleCNN
 
 # Load model (untrained for now)
 model = SimpleCNN()
