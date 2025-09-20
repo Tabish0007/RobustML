@@ -2,6 +2,8 @@ import streamlit as st
 from PIL import Image, ImageDraw
 import torch
 import torchvision.transforms as transforms
+import sys
+sys.path.append(".")  # adds root to path
 from models.mnist_model import SimpleCNN
 
 # Load model (untrained for now)
