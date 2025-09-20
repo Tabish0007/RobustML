@@ -1,11 +1,12 @@
-from src.utils.io import load_model
-
 import streamlit as st
 
 def main():
-    st.title("Robust ML – Adversarial Defense Demo")
-    st.write("Welcome! This is the starting point of your project.")
-    st.write("Next steps: Load data, build models, test adversarial attacks.")
+    st.title("RobustML Test App")
+    st.write("This is a minimal working Streamlit app.")
+    
+    name = st.text_input("Enter your name:")
+    if name:
+        st.success(f"Hello, {name}!")
 
 if __name__ == "__main__":
     main()
